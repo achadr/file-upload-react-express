@@ -1,3 +1,6 @@
+# Chemin des fichiers chargés
+
+#### Les fichiers chargés sont dans le dossier "./BackendProduit/public/uploads"
 
 # Installer les dépendences.
 
@@ -11,6 +14,4 @@
 
 #### il suffit de lancer la commande "npm start" dans le dossier "./BackendProduit/front" pour lancer la WebApp
 
-# Chemin des fichiers chargés
 
-#### Les fichiers chargés sont dans le dossier "./BackendProduit/public/uploads"
