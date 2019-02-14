@@ -4,7 +4,7 @@
 
 # Installer les dépendences.
 
-#### Lancer la commande npm install pour installer les dépendences
+#### Lancer la commande "npm install" pour installer les dépendences
 
 # Lancer le serveur
 
